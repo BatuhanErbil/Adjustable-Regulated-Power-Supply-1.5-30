@@ -1,1 +1,1 @@
-# Adjustable-Refulated-Power-Supply-1.5-30-
+# Adjustable-Regulated-Power-Supply-1.5-30-
