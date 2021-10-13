@@ -1,1 +1,1 @@
-# Adjustable-Regulated-Power-Supply-1.5-30
+# Adjustable-Regulated-Power-Supply-1.5V-30V
